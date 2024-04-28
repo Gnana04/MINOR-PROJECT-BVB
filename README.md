@@ -3,7 +3,7 @@
 #### React (React Roating, React Hooks), Redux (Thunk), Formik, Yup, SCSS, CSS modules
 
 
-*📝The project is still in development*
+*📝The project is  still in development*
 
 *At the end of the file you can find features which i want to add*
 
